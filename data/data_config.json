@@ -1,0 +1,16 @@
+"login_acc":
+  {"phone":"18666666666","pwd":"123"}
+"login_psw_null":
+  {"phone":"18835984756","pwd":""}
+"loing_user_null":
+  {"phone":" ","pwd":"123456"}
+"login_phone_null":
+  {"phone": "null","pwd": "123456"}
+"login_phone_error":
+  {"phone": "130359846560","pwd": "123456"}
+"login_phone_error1":
+  {"phone": "141359847560","pwd": "123456"}
+"login_phone_error2":
+  {"phone": "321654","pwd": "123456"}
+"login_phone_error3":
+  {"phone": "一五九三三四四六六八零","pwd": "123456"}
